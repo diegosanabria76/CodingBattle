@@ -1,0 +1,8 @@
+def primero_ultimo(nums):
+    first = nums[0]
+    last = nums[-1]
+    print("primero de la lista", first," ultimo de la lista", last)  
+    
+numeros= [2,3,4,32,5,6,67,7,4654]    
+primero_ultimo(numeros)
+    
